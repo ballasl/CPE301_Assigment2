@@ -1,0 +1,31 @@
+<ASSEMBLER_INFO>
+ <VERSION>2.2.7</VERSION>
+ <DEVICE>"ATmega328P"</DEVICE>
+ <WORKING_DIR>D:\CPE_301\CPE_301_Assignment02\CPE301_Assignment2_Part3\Simulation_Assignment2_Part3\Debug</WORKING_DIR>
+ <INCLUDE_PATH>
+  <DIR>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.2.150\avrasm\inc</DIR>
+  <DIR>C:\Program Files (x86)\Atmel\Studio\7.0\toolchain\avr8\avrassembler\Include</DIR>
+  <DIR></DIR>
+ </INCLUDE_PATH>
+ <SOURCE_FILE>D:\CPE_301\CPE_301_Assignment02\CPE301_Assignment2_Part3\Simulation_Assignment2_Part3\main.asm</SOURCE_FILE>
+ <INCLUDED_FILES>
+  <FILE>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.2.150\avrasm\inc\m328pdef.inc</FILE>
+ </INCLUDED_FILES>
+ <OBJECT_FILES>
+  <FILE>D:\CPE_301\CPE_301_Assignment02\CPE301_Assignment2_Part3\Simulation_Assignment2_Part3\Debug\Simulation_Assignment2_Part3.obj</FILE>
+ </OBJECT_FILES>
+ <HEX_FILES>
+  <FILE>Simulation_Assignment2_Part3.hex</FILE>
+ </HEX_FILES>
+ <OUTPUT_FILES>
+  <FILE>Simulation_Assignment2_Part3.map</FILE>
+  <FILE>Simulation_Assignment2_Part3.lss</FILE>
+ </OUTPUT_FILES>
+ <LABELS>
+  <start><FILE>D:\CPE_301\CPE_301_Assignment02\CPE301_Assignment2_Part3\Simulation_Assignment2_Part3\main.asm</FILE><LINE>8</LINE></start>
+  <loop><FILE>D:\CPE_301\CPE_301_Assignment02\CPE301_Assignment2_Part3\Simulation_Assignment2_Part3\main.asm</FILE><LINE>11</LINE></loop>
+  <delay><FILE>D:\CPE_301\CPE_301_Assignment02\CPE301_Assignment2_Part3\Simulation_Assignment2_Part3\main.asm</FILE><LINE>20</LINE></delay>
+  <cycle1><FILE>D:\CPE_301\CPE_301_Assignment02\CPE301_Assignment2_Part3\Simulation_Assignment2_Part3\main.asm</FILE><LINE>33</LINE></cycle1>
+  <cycle2><FILE>D:\CPE_301\CPE_301_Assignment02\CPE301_Assignment2_Part3\Simulation_Assignment2_Part3\main.asm</FILE><LINE>35</LINE></cycle2>
+ </LABELS>
+</ASSEMBLER_INFO>

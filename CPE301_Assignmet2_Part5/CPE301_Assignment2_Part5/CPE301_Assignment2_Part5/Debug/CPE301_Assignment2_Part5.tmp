@@ -1,0 +1,34 @@
+<ASSEMBLER_INFO>
+ <VERSION>2.2.7</VERSION>
+ <DEVICE>"ATmega328P"</DEVICE>
+ <WORKING_DIR>D:\CPE_301\CPE_301_Assignment02\CPE301_Assignmet2_Part5\CPE301_Assignment2_Part5\CPE301_Assignment2_Part5\Debug</WORKING_DIR>
+ <INCLUDE_PATH>
+  <DIR>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.2.150\avrasm\inc</DIR>
+  <DIR>C:\Program Files (x86)\Atmel\Studio\7.0\toolchain\avr8\avrassembler\Include</DIR>
+  <DIR></DIR>
+ </INCLUDE_PATH>
+ <SOURCE_FILE>D:\CPE_301\CPE_301_Assignment02\CPE301_Assignmet2_Part5\CPE301_Assignment2_Part5\CPE301_Assignment2_Part5\main.asm</SOURCE_FILE>
+ <INCLUDED_FILES>
+  <FILE>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.2.150\avrasm\inc\m328pdef.inc</FILE>
+ </INCLUDED_FILES>
+ <OBJECT_FILES>
+  <FILE>D:\CPE_301\CPE_301_Assignment02\CPE301_Assignmet2_Part5\CPE301_Assignment2_Part5\CPE301_Assignment2_Part5\Debug\CPE301_Assignment2_Part5.obj</FILE>
+ </OBJECT_FILES>
+ <HEX_FILES>
+  <FILE>CPE301_Assignment2_Part5.hex</FILE>
+ </HEX_FILES>
+ <OUTPUT_FILES>
+  <FILE>CPE301_Assignment2_Part5.map</FILE>
+  <FILE>CPE301_Assignment2_Part5.lss</FILE>
+ </OUTPUT_FILES>
+ <LABELS>
+  <start><FILE>D:\CPE_301\CPE_301_Assignment02\CPE301_Assignmet2_Part5\CPE301_Assignment2_Part5\CPE301_Assignment2_Part5\main.asm</FILE><LINE>25</LINE></start>
+  <int0_int><FILE>D:\CPE_301\CPE_301_Assignment02\CPE301_Assignmet2_Part5\CPE301_Assignment2_Part5\CPE301_Assignment2_Part5\main.asm</FILE><LINE>16</LINE></int0_int>
+  <timer0_ovf><FILE>D:\CPE_301\CPE_301_Assignment02\CPE301_Assignmet2_Part5\CPE301_Assignment2_Part5\CPE301_Assignment2_Part5\main.asm</FILE><LINE>20</LINE></timer0_ovf>
+  <preloop><FILE>D:\CPE_301\CPE_301_Assignment02\CPE301_Assignmet2_Part5\CPE301_Assignment2_Part5\CPE301_Assignment2_Part5\main.asm</FILE><LINE>38</LINE></preloop>
+  <loop><FILE>D:\CPE_301\CPE_301_Assignment02\CPE301_Assignmet2_Part5\CPE301_Assignment2_Part5\CPE301_Assignment2_Part5\main.asm</FILE><LINE>40</LINE></loop>
+  <delay><FILE>D:\CPE_301\CPE_301_Assignment02\CPE301_Assignmet2_Part5\CPE301_Assignment2_Part5\CPE301_Assignment2_Part5\main.asm</FILE><LINE>54</LINE></delay>
+  <cycle1><FILE>D:\CPE_301\CPE_301_Assignment02\CPE301_Assignmet2_Part5\CPE301_Assignment2_Part5\CPE301_Assignment2_Part5\main.asm</FILE><LINE>69</LINE></cycle1>
+  <cycle2><FILE>D:\CPE_301\CPE_301_Assignment02\CPE301_Assignmet2_Part5\CPE301_Assignment2_Part5\CPE301_Assignment2_Part5\main.asm</FILE><LINE>72</LINE></cycle2>
+ </LABELS>
+</ASSEMBLER_INFO>
